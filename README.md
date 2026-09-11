@@ -20,5 +20,3 @@ The system continuously monitors PV input, battery parameters, charging power, a
 - Wi-Fi connectivity and network provisioning
 - WiFiManager-based configuration
 - Real-time battery and fault notifications
-
-## 🧠 System Architecture
