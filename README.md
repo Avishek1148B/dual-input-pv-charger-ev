@@ -1,5 +1,3 @@
-# dual-input-pv-charger-ev
-ESP32-based dual-input PV charger for lightweight EVs with MPPT control, battery charging, real-time parameter monitoring, LCD interface, and Blynk IoT dashboard.
 # Dual-Input PV Charger for Lightweight EVs
 
 ESP32-based control and real-time monitoring system for a dual-input photovoltaic (PV) charger designed for lightweight electric vehicles.
